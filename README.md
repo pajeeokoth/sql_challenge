@@ -1,5 +1,6 @@
 # sql_challenge
 in this challenge, we will 
+
     - create an employees database
 
     - add tables to it
